@@ -47,7 +47,7 @@
 | Project | What it is | Built with |
 |---|---|---|
 | [**ad-homelab**](https://github.com/carterlafosse/ad-homelab) | Active Directory home lab with Windows Server and client VMs, PowerShell automation, and five documented help desk ticket write-ups | Windows Server, AD DS, PowerShell |
-| [**screenguide-ai**](https://github.com/carterlafosse/screenguide-ai) | AI tech support assistant that sees your screen and talks you through common Windows and office issues | Claude Vision API, Node.js |
+| [**screenguide-ai**](https://github.com/carterlafosse/screenguide-ai) | AI tech support assistant that sees your screen and talks you through common Windows and office issues *(in progress)* | Claude Vision API, Node.js |
 | [**resolvd**](https://github.com/carterlafosse/resolvd) | Multi-organization helpdesk ticketing system *(in progress)* | Express, PostgreSQL, React |
 
 ---
